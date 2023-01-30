@@ -3,7 +3,7 @@ import data from '../data'
 export default function Footer() {
   return (
     <footer>
-      <a href="mailto:andresdrimer@hotmail.com" target="_blank" rel="noreferrer">
+      <a href="mailto:andresdrimer@hotmail.com" target="_blank" rel="noopener noreferrer">
         {" "}
         <i class="fa-solid fa-envelope"></i>
       </a>
@@ -15,7 +15,7 @@ export default function Footer() {
         {" "}
         <i class="fa-brands fa-github"></i>
       </a>
-      <a href={data.linkedin} target="_blank" rel="noreferrer">
+      <a href={data.linkedin} target="_blank" rel="noopener noreferrer">
         {" "}
         <i class="fa-solid fa-star"></i>
       </a>
