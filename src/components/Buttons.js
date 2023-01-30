@@ -7,14 +7,14 @@ export default function Buttons() {
     <div className="buttons-cont">
       <button type="text">
         {" "}
-        <a href="mailto:andresdrimer@hotmail.com" target="_blank">
+        <a href="mailto:andresdrimer@hotmail.com" target="_blank" rel="noreferrer">
           {" "}
           <img src={emailLogo} alt="" /> Email{" "}
         </a>{" "}
       </button>
       <button type="text" id="btn-linkedin">
         {" "}
-        <a href={data.linkedin} target="_blank">
+        <a href={data.linkedin} target="_blank" rel="noreferrer">
           {" "}
           <img src={linkedinLogo} alt=""  /> LinkedIn{" "}
         </a>{" "}
