@@ -10,8 +10,11 @@ export default function Name() {
         {" "}
         <a href={data.portfolioSrc}>
           view portfolio
-        </a>{" "}
-      </p>
+        </a>{" "}  /  
+        <a href={data.resume}>
+            get resume
+        </a>{" "}</p>
+      
     </div>
   );
 }
