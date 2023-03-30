@@ -14,7 +14,7 @@ px;
   margin: auto;
   width: 330px;
   height: 330px;
-  background-image: url("../src/images/andres-foto-edit.png");
+  background-image: url("../src/images/portrait2.jpeg");
   background-size: cover;
   background-position: center;
   border-radius: 10px 10px 0px 0px;
@@ -39,7 +39,7 @@ px;
   font-size: 12.8px;
   line-height: 15px;
   text-align: center;
-  color: #e2b1b0;
+  color: #22c4c7;
 }
 .--name-portfolio {
   font-family: "Inter";
@@ -82,7 +82,7 @@ px;
   padding-right: 5px;
 }
 #btn-linkedin{
-  background-color: #297FE5;
+  background-color:   #22c4c7;
   
 }
 #btn-linkedin a, #btn-linkedin img{
