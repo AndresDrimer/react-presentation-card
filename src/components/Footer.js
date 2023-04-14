@@ -13,7 +13,7 @@ export default function Footer() {
         {" "}
         <i class="fa-brands fa-github"></i>
       </a>
-      <a href="https://drive.google.com/file/d/1TcSLUb7TKj-YSq09NgJraFFqmOhnWrtd/view">
+      <a href="https://drive.google.com/file/d/1qK_kooLAZU9H1oNtKwB-rCDA7kbOhgl8/view?usp=sharing">
         {" "}
         <i class="fa-solid fa-star"></i>
       </a>
